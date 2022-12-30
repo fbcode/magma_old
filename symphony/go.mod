@@ -8,24 +8,20 @@ require (
 	contrib.go.opencensus.io/integrations/ocsql v0.1.6
 	github.com/99designs/gqlgen v0.11.3
 	github.com/AlekSi/pointer v1.1.0
-	github.com/Azure/azure-amqp-common-go/v2 v2.1.0 // indirect
 	github.com/DATA-DOG/go-sqlmock v1.3.3
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
-	github.com/aws/aws-sdk-go v1.31.13
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/cenkalti/backoff/v4 v4.0.2
 	github.com/facebookincubator/ent v0.2.2
-	github.com/fatih/color v1.7.0 // indirect
 	github.com/go-sql-driver/mysql v1.5.1-0.20200311113236-681ffa848bae
 	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/golang/protobuf v1.4.2
-	github.com/google/addlicense v0.0.0-20200422172452-68a83edd47bc // indirect
 	github.com/google/uuid v1.1.1
 	github.com/google/wire v0.4.0
 	github.com/gorilla/mux v1.7.4
 	github.com/gorilla/websocket v1.4.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
-	github.com/grpc-ecosystem/grpc-gateway v1.9.2 // indirect
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
